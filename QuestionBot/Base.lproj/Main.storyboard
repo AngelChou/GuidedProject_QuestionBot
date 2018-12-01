@@ -52,8 +52,7 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits" returnKeyType="send" enablesReturnKeyAutomatically="YES"/>
                                         <connections>
-                                            <action selector="editingChanged:" destination="BYZ-38-t0r" eventType="editingChanged" id="loU-oS-hDS"/>
-                                            <outlet property="delegate" destination="BYZ-38-t0r" id="0gp-rt-VQ1"/>
+                                            <action selector="editingChanged:" destination="BYZ-38-t0r" eventType="editingChanged" id="1Ev-8Y-6cf"/>
                                         </connections>
                                     </textField>
                                     <button opaque="NO" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3uM-H9-Zel">
